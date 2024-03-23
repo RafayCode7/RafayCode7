@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafia Majeed</h1>
 <h3 align="center">A passionate developer from Pakistain Focusing on Data Science</h3>
 
-<img alighn ="right" alt="coding" widhth= "400" src="[https://images.search.yahoo.com/search/images;_ylt=AwrOp8fyuv5l3x8FsOJXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Nj?p=animated+coding+gif&fr=mcafee#id=12&iurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F219482%2Fscreenshots%2F14676444%2Fmedia%2F28fa0b64b0454de0d0664e364e4f95fc.gif&action=click](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)">
+<img align ="right" alt="coding" width= "400" src="[https://images.search.yahoo.com/search/images;_ylt=AwrOp8fyuv5l3x8FsOJXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3Nj?p=animated+coding+gif&fr=mcafee#id=12&iurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F219482%2Fscreenshots%2F14676444%2Fmedia%2F28fa0b64b0454de0d0664e364e4f95fc.gif&action=click](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaycode7&label=Profile%20views&color=0e75b6&style=flat" alt="rafaycode7" /> </p>
 
