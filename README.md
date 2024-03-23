@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafia Majeed</h1>
 <h3 align="center">A passionate developer from Pakistain Focusing on Data Science</h3>
 
-<img align ="right" alt="coding" width= "400" src="https://github.com/RafayCode7/RafayCode7/assets/123303399/cb2eeb6c-e0f4-48df-b205-d3c9fb66c4b0)](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif
+<img align ="right" alt="coding" width= "400" src="[https://github.com/RafayCode7/RafayCode7/assets/123303399/cb2eeb6c-e0f4-48df-b205-d3c9fb66c4b0)](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaycode7&label=Profile%20views&color=0e75b6&style=flat" alt="rafaycode7" /> </p>
