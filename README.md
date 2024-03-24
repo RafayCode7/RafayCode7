@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rafia majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafia majeed" height="30" width="40" /></a>
 <a href="https://kaggle.com/rafiamajeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafiamajeed" height="30" width="40" /></a>
-<a href="https://instagram.com/rafia_majeed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafia_majeed1" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
