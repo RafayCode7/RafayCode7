@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rafia Majeed</h1>
-<h3 align="center">A passionate developer from Pakistain Focusing on Data Science</h3>
+<h3 align="center">A passionate developer from Pakistain Focusing on Learning new skills and improving day by day</h3>
 
 <img align ="right" alt="coding" width= "400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaycode7&label=Profile%20views&color=0e75b6&style=flat" alt="rafaycode7" /> </p>
 
-- 🌱 I’m currently learning **Django , Machine Learning**
+- 🌱 I’m currently learning **Django , Machine Learning, Next Js , React Js**
 
-- 💬 Ask me about **Back End development**
+- 💬 Ask me about **Front End and Back End development**
 
 - 📫 How to reach me **Rafaycodes17@gmail.come**
 
