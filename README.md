@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Front End and Back End development**
 
-- 📫 How to reach me **Rafaycodes17@gmail.come**
+- 📫 How to reach me **rafaycodes17@gmail.come**
 
 - ⚡ Fun fact **I am Funny**
 
